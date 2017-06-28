@@ -9,4 +9,4 @@
 * What is a commit? What makes a good commit message?
   It records changes to a reposiotry made by a user
 * What is a merge conflict?
-  Occurs when you are trying to merge a branch with another branch, but they do not have the same commits.
+  Occurs when you are trying to merge a branch with another branch, but they do not have the same commits....
